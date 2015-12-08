@@ -1,0 +1,4 @@
+[lfs]
+	access = basic
+	batch = true
+	url =  "http://localhost:3000/adamsullovey/lfs-test.git"
